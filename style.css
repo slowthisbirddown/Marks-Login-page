@@ -23,3 +23,16 @@ body {
 .forgot {
     text-align: center;
 }
+
+.button {
+    background-color: #eb9532;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 10px;
+    border-radius: 20%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
